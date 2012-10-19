@@ -1,15 +1,10 @@
-/**
- * Created by IntelliJ IDEA.
- * User: VAIO
- * Date: 19.08.12
- * Time: 17:27
- * To change this template use File | Settings | File Templates.
- */
+
 public class Main {
     
     public int h = 0;
     public int v = 0;
 
+    //размерность доски
     final private static int DESK_SIZE = 8;
 
     public static int [][] Desk;
